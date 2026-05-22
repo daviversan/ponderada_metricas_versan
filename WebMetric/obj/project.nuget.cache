@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1g/JP/ZN9pQ=",
+  "success": true,
+  "projectFilePath": "/home/dversan/Documents/ponderadas/ponderada_metricas_versan/WebMetric/WebMetric.csproj",
+  "expectedPackageFiles": [
+    "/home/dversan/.nuget/packages/opentelemetry/1.15.3/opentelemetry.1.15.3.nupkg.sha512",
+    "/home/dversan/.nuget/packages/opentelemetry.api/1.15.3/opentelemetry.api.1.15.3.nupkg.sha512",
+    "/home/dversan/.nuget/packages/opentelemetry.api.providerbuilderextensions/1.15.3/opentelemetry.api.providerbuilderextensions.1.15.3.nupkg.sha512",
+    "/home/dversan/.nuget/packages/opentelemetry.exporter.prometheus.aspnetcore/1.15.3-beta.1/opentelemetry.exporter.prometheus.aspnetcore.1.15.3-beta.1.nupkg.sha512",
+    "/home/dversan/.nuget/packages/opentelemetry.extensions.hosting/1.15.3/opentelemetry.extensions.hosting.1.15.3.nupkg.sha512"
+  ],
+  "logs": []
+}
